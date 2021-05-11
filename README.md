@@ -1,4 +1,4 @@
-# HRMS.PostgreSQL
+# HRMS.PostgreSQL (Human Resource Management System)
 ### PostgreSQL - Database
 * * *
 ### ER AÇIKLAMASI:
