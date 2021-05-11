@@ -2,4 +2,4 @@
 ### PostgreSQL - Database
 * * *
 ### ER AÇIKLAMASI:
-<b> Users </b>
+  - <b> Users </b>
